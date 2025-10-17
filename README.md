@@ -1,9 +1,6 @@
 # 👋 ¡Hola! Soy ANONIMO432HZ
 
-> **Estudiante de programación y autodidacta en constante aprendizaje del vasto mundo de la tecnología.**
-
-Me considero un **autodidacta** en la búsqueda constante de nuevos desafíos y aprendizajes. Prefiero mantenerme en las sombras mientras exploro y contribuyo al mundo digital.
-
+> **Estudiante de programación en constante aprendizaje en el vasto universo de la TIC.**
 ---
 
 ## 🎯 **Sobre Mí**
