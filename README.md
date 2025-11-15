@@ -5,7 +5,7 @@
 
 ## 🎯 **Sobre Mí**
 
-Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante de programación y siempre buscando expandir mis conocimientos. Mis intereses incluyen **ciberseguridad**, **hacking ético**, **Linux**, **redes** y el desarrollo de proyectos de **código abierto**. Explorando el potencial de la **IA** en la programación y siempre manteniendo un perfil discreto.
+Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante de programación y siempre buscando expandir mis conocimientos. Mis intereses incluyen **ciberseguridad**, **hacking ético**, **Linux**, **redes** y el desarrollo de proyectos de **código abierto**.
 
 ---
 
