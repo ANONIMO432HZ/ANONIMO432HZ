@@ -197,9 +197,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 <div align="center">
 
-### 🌟 **¿Te gustó mi perfil?**
-
-¡Dale una estrella a mis repositorios y sígueme para más contenido!
+### 🌟 **¡Dale una estrella a mis repositorios y sígueme para más contenido!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
 [![Email](https://img.shields.io/badge/Email-usuario432hz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
