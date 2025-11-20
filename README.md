@@ -38,7 +38,8 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - **PHP** (desarrollo web)
 - **Batch** (Windows automation)
 - **HTML/CSS/JavaScript** (creación de páginas web)
-- **Frameworks web** (React, Vue.js, Bootstrap)
+- **TypeScript** (desarrollo web moderno)
+- **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
 
 ### 🛠️ **Herramientas y Entornos**
 - **Docker** para contenedores
@@ -51,11 +52,13 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - **Cloud Platforms** (AWS, Azure, Google Cloud)
 - **DigitalOcean** y gestión de Droplets
 - **v2ray** para proxy y tunneling
+- **Vercel** para despliegue de aplicaciones web
 
 ### ✨ **Inteligencia Artificial**
 - Aplicación de **IA** para generar ideas en programación
 - Automatización con IA
 - Herramientas de IA para desarrollo
+- **Claude Code** y asistentes de programación
 
 ### ⚡ **Hardware**
 - Aspectos básicos de **Electrónica**
@@ -84,12 +87,29 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - ☁️ **Plataformas cloud** (AWS, Azure, Google Cloud)
 - 🌊 **DigitalOcean** y gestión de Droplets
 - 🔒 **Servidores VPN** y configuración de v2ray
+- 🤖 **MCP Servers** y protocolos de comunicación con IA
 
 ---
 
 ## ✨ **Mis Proyectos Destacados**
 
-### 🛠️ **[WinTools](https://github.com/ANONIMO432HZ/WinTools)**
+### 🚀 **[DevSuite](https://github.com/ANONIMO432HZ/DevSuite)**
+> Suite de herramientas para desarrolladores - Calculadoras y conversores esenciales
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/DevSuite?style=for-the-badge&color=yellow)
+
+**Características:**
+- 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
+- 🔐 Codificador/decodificador Base64
+- ⚡ Interfaz rápida e intuitiva
+- 🎨 Diseño moderno y estéticamente agradable
+- 🌐 Desplegado en Vercel: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
+
+---
+
+### ️ **[WinTools](https://github.com/ANONIMO432HZ/WinTools)**
 > Multi-herramientas para Windows - Herramientas de administración y optimización
 
 ![WinTools](https://img.shields.io/badge/WinTools-v1.0.0.1-brightgreen?style=for-the-badge&logo=windows)
@@ -120,6 +140,17 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ---
 
+## 🌟 **Proyectos Recientes**
+
+Además de mis proyectos destacados, he estado explorando y contribuyendo en:
+
+- 🤖 **MCP Servers** - Protocolos de comunicación con IA
+- 🎯 **Claude Template** - Configuración de agentes especializados
+- 🔧 **Context Engineering** - Optimización de asistentes de IA
+- 🚀 **SaaS Factory** - Desarrollo de servicios web con IA
+
+---
+
 ## 🛠️ **Tecnologías y Herramientas**
 
 ### 💻 **Lenguajes de Programación**
@@ -130,6 +161,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🖥️ **Sistemas Operativos**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -142,6 +174,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=api)
@@ -150,6 +183,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-Server-green?style=for-the-badge&logo=shield)
 
 ### 🔒 **Ciberseguridad**
@@ -167,6 +201,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANONIMO432HZ&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
+---
 
 ## 🤝 **Colaboración y Contacto**
 
@@ -192,6 +227,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - **Seguridad por diseño** en cada proyecto
 - **Aprendizaje continuo** y mejora constante
 - **Discreción** y ética en el hacking
+- **Innovación** con herramientas modernas
 
 ---
 
@@ -204,4 +240,4 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 **Hecho con ❤️ y mucho ☕**
 
-</div> 
+</div>
