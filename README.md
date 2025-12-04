@@ -4,7 +4,22 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ---
 
-## 📚 **Mis Pasiones y Áreas de Estudio**
+## 📚 **Mis Pasiones, Áreas de Aprendizaje y Exploraciones**
+
+- 🔍 **Automatización con Python**
+- 🛡️ **Nuevas técnicas de hardening**
+- 🐍 **Desarrollo de herramientas**
+- 🔐 **Análisis de malware** y reverse engineering
+- 🌐 **Seguridad en redes** y protocolos
+- 🌐 **Desarrollo web** con frameworks modernos
+- 🎨 **Diseño de interfaces** y experiencia de usuario
+- 🔄 **Automatización con n8n** y workflows
+- ☁️ **Gestión de VPS** y servidores cloud
+- 🔌 **Integración de APIs** y servicios web
+- ☁️ **Plataformas cloud** (AWS, Azure, Google Cloud)
+- 🌊 **DigitalOcean** y gestión de Droplets
+- 🔒 **Servidores VPN** y configuración de v2ray
+- 🤖 **MCP Servers** y protocolos de comunicación con IA
 
 ### 💻 **Programación**
 - **Python** (automatización, ciberseguridad)
@@ -63,25 +78,6 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - Aprender crear y compartir
 - Mantener la curiosidad por lo **sobrenatural**
 - Contribuir a la comunidad tecnológica
-
----
-
-## 📊 **Lo que estoy aprendiendo/explorando**
-
-- 🔍 **Automatización con Python** para ciberseguridad
-- 🛡️ **Nuevas técnicas de hardening** en Linux
-- 🐍 **Desarrollo de herramientas** en Bash para pentesting
-- 🔐 **Análisis de malware** y reverse engineering
-- 🌐 **Seguridad en redes** y protocolos
-- 🌐 **Desarrollo web** con frameworks modernos
-- 🎨 **Diseño de interfaces** y experiencia de usuario
-- 🔄 **Automatización con n8n** y workflows
-- ☁️ **Gestión de VPS** y servidores cloud
-- 🔌 **Integración de APIs** y servicios web
-- ☁️ **Plataformas cloud** (AWS, Azure, Google Cloud)
-- 🌊 **DigitalOcean** y gestión de Droplets
-- 🔒 **Servidores VPN** y configuración de v2ray
-- 🤖 **MCP Servers** y protocolos de comunicación con IA
 
 ---
 
@@ -213,7 +209,5 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
 [![Email](https://img.shields.io/badge/Email-usuario432hz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
-
-**Hecho con ❤️ y mucho ☕**
 
 </div>
