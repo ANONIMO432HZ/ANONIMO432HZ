@@ -6,20 +6,20 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ## 📚 **Mis Pasiones, Áreas de Aprendizaje y Exploraciones**
 
+- 🌐 **Desarrollo web** con frameworks modernos
+- 🐍 **Desarrollo de herramientas**
+- 🤖 **MCP Servers** y protocolos de comunicación con IA
+- 🔄 **Automatización con n8n** y workflows
 - 🔍 **Automatización con Python**
 - 🛡️ **Nuevas técnicas de hardening**
-- 🐍 **Desarrollo de herramientas**
 - 🔐 **Análisis de malware** y reverse engineering
 - 🌐 **Seguridad en redes** y protocolos
-- 🌐 **Desarrollo web** con frameworks modernos
 - 🎨 **Diseño de interfaces** y experiencia de usuario
-- 🔄 **Automatización con n8n** y workflows
 - ☁️ **Gestión de VPS** y servidores cloud
 - 🔌 **Integración de APIs** y servicios web
 - ☁️ **Plataformas cloud** (AWS, Azure, Google Cloud)
 - 🌊 **DigitalOcean** y gestión de Droplets
 - 🔒 **Servidores VPN** y configuración de v2ray
-- 🤖 **MCP Servers** y protocolos de comunicación con IA
 
 ### 💻 **Programación**
 - **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
