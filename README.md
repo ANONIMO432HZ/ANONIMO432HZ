@@ -1,8 +1,3 @@
-# 👋 ¡Hola! Soy Unknown432Hz
-
-> **Un desconocido en constante aprendizaje en el vasto universo de la TICS.**
----
-
 ## 🎯 **Sobre Mí**
 
 Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante de programación y siempre buscando expandir mis conocimientos. Mis intereses incluyen **ciberseguridad**, **hacking ético**, **Linux**, **redes** y el desarrollo de proyectos de **código abierto**.
