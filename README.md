@@ -1,6 +1,6 @@
 ## 🎯 **Sobre Mí**
 
-Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante de programación y siempre buscando expandir mis conocimientos. Mis intereses incluyen **ciberseguridad**, **hacking ético**, **Linux**, **redes**, **automatizaciones**, **Devops**, y desarrollo  de software **full stack**
+Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante de programación y siempre buscando expandir mis conocimientos. Mis intereses incluyen **ciberseguridad**, **hacking ético**, **Linux**, **redes**, **automatizaciones**, **devops**, y desarrollo  de software **full stack**
 
 ---
 
