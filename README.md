@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy ANONIMO432HZ
+# 👋 ¡Hola! Soy Unknown432Hz
 
-> **Estudiante de programación en constante aprendizaje en el vasto universo de la TIC.**
+> **Un desconocido en constante aprendizaje en el vasto universo de la TICS.**
 ---
 
 ## 🎯 **Sobre Mí**
@@ -11,8 +11,17 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ## 📚 **Mis Pasiones y Áreas de Estudio**
 
+### 💻 **Programación**
+- **Python** (automatización, ciberseguridad)
+- **Bash** (scripting y administración)
+- **PHP** (desarrollo web)
+- **Batch** (Windows automation)
+- **HTML/CSS/JavaScript** (creación de páginas web)
+- **TypeScript** (desarrollo web moderno)
+- **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
+  
 ### 🖥️ **Sistemas Operativos**
-- 🐧 **Linux** (especialmente **Ubuntu** y **Kali Linux**)
+- 🐧 **Linux** (**Debian**, **Ubuntu** y **Kali Linux**)
 - 🪟 Seguridad en **Windows**
 - 🔧 Administración de sistemas
 
@@ -29,17 +38,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - Administración de **servidores**
 - **VPS** (Virtual Private Servers)
 - Configuración y gestión de **servidores cloud**
-- **v2ray** para proxy y tunneling
 - **Droplets** y servidores virtuales
-
-### 💻 **Programación**
-- **Python** (automatización, ciberseguridad)
-- **Bash** (scripting y administración)
-- **PHP** (desarrollo web)
-- **Batch** (Windows automation)
-- **HTML/CSS/JavaScript** (creación de páginas web)
-- **TypeScript** (desarrollo web moderno)
-- **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
 
 ### 🛠️ **Herramientas y Entornos**
 - **Docker** para contenedores
@@ -58,15 +57,15 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - Aplicación de **IA** para generar ideas en programación
 - Automatización con IA
 - Herramientas de IA para desarrollo
-- **Claude Code** y asistentes de programación
+- **Claude Code**, **Gemini CLI**, **Rovodev** y asistentes de programación
 
 ### ⚡ **Hardware**
 - Aspectos básicos de **Electrónica**
-- Concepto de **Overclocking**
+- Hardware unlocking básico.
 - Optimización de hardware
 
 ### 💡 **Filosofía**
-- Crear **proyectos de código abierto** para aprender y compartir
+- Aprender crear y compartir
 - Mantener la curiosidad por lo **sobrenatural**
 - Contribuir a la comunidad tecnológica
 
@@ -140,17 +139,6 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ---
 
-## 🌟 **Proyectos Recientes**
-
-Además de mis proyectos destacados, he estado explorando y contribuyendo en:
-
-- 🤖 **MCP Servers** - Protocolos de comunicación con IA
-- 🎯 **Claude Template** - Configuración de agentes especializados
-- 🔧 **Context Engineering** - Optimización de asistentes de IA
-- 🚀 **SaaS Factory** - Desarrollo de servicios web con IA
-
----
-
 ## 🛠️ **Tecnologías y Herramientas**
 
 ### 💻 **Lenguajes de Programación**
@@ -205,7 +193,7 @@ Además de mis proyectos destacados, he estado explorando y contribuyendo en:
 
 ## 🤝 **Colaboración y Contacto**
 
-### 💡 **¿Te gusta mi trabajo?**
+### 💡 **¿Quieres apoyar mi trabajo?**
 - ⭐ **Dale una estrella** a mis repositorios
 - 🔄 **Fork** los proyectos que te interesen
 - 🐛 **Reporta bugs** o sugiere mejoras
@@ -221,13 +209,6 @@ Además de mis proyectos destacados, he estado explorando y contribuyendo en:
 ## 🎨 **Filosofía de Desarrollo**
 
 > *"El conocimiento es poder, pero compartirlo es libertad. En el mundo de la tecnología, cada línea de código es una oportunidad para aprender y crecer."*
-
-### 🔐 **Principios**
-- **Código abierto** para el beneficio de todos
-- **Seguridad por diseño** en cada proyecto
-- **Aprendizaje continuo** y mejora constante
-- **Discreción** y ética en el hacking
-- **Innovación** con herramientas modernas
 
 ---
 
