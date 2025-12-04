@@ -22,13 +22,14 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - 🤖 **MCP Servers** y protocolos de comunicación con IA
 
 ### 💻 **Programación**
+- **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
 - **Python** (automatización, ciberseguridad)
 - **Bash** (scripting y administración)
 - **PHP** (desarrollo web)
 - **Batch** (Windows automation)
 - **HTML/CSS/JavaScript** (creación de páginas web)
 - **TypeScript** (desarrollo web moderno)
-- **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
+- **C#** (Aplicaciones de escritorio)
   
 ### 🖥️ **Sistemas Operativos**
 - 🐧 **Linux** (**Debian**, **Ubuntu** y **Kali Linux**)
@@ -204,8 +205,6 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ---
 
 <div align="center">
-
-### 🌟 **¡Dale una estrella a mis repositorios y sígueme para más contenido!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
 [![Email](https://img.shields.io/badge/Email-usuario432hz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
