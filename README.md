@@ -140,10 +140,8 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 
 </div>
 
----
 
 ## 🎨 **Filosofía de Desarrollo**
 
 > *"El conocimiento es poder, pero compartirlo es libertad. En el mundo de la tecnología, cada línea de código es una oportunidad para aprender y crecer."*
 
----
