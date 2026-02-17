@@ -15,7 +15,6 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - ☁️ **Plataformas cloud**
 - 🔒 **Servidores VPN**
   
-
 ### 🔒 **Ciberseguridad**
 - **Seguridad Informática**
 - **Hacking Ético**
@@ -35,7 +34,6 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - **n8n**
 - **VPS**
 - **Cloud Platforms**
-- **DigitalOcean**
 
 ### 💡 **Filosofía**
 - Aprender crear y compartir
@@ -56,7 +54,6 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
 - 🔐 Codificador/decodificador Base64
 - ⚡ Interfaz rápida e intuitiva
-- 🎨 Diseño moderno y estéticamente agradable
 - 🌐 Desplegado en Vercel: [dev-suite.vercel.app](https://dev-suite.vercel.app/) | [devsuite.systes.net](https://devsuite.sytes.net/)
 
 ---
@@ -71,7 +68,6 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 **Características:**
 - 🎮 6 menús principales con +35 herramientas
 - 🔐 Ejecutables firmados digitalmente
-- 📖 Documentación completa en español
 - 🛡️ Solución para problemas de antivirus
 - 🎯 Compatible con Windows 10/11
 
@@ -88,7 +84,6 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - 📊 Monitorización en tiempo real
 - 🔋 Modo de conservación de batería
 - 🖥️ Interfaz moderna y fácil de usar
-- 📈 Estadísticas detalladas del sistema
 
 ---
 
@@ -135,7 +130,15 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - 🔄 **Fork** los proyectos que te interesen
 - 🐛 **Reporta bugs** o sugiere mejoras
 - 💬 **Contribuye** con código o documentación
+- 👤 **Sigueme**
 
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
+[![Email](https://img.shields.io/badge/Email-usuario432hz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
+
+</div>
 
 ---
 
@@ -144,10 +147,3 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 > *"El conocimiento es poder, pero compartirlo es libertad. En el mundo de la tecnología, cada línea de código es una oportunidad para aprender y crecer."*
 
 ---
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
-[![Email](https://img.shields.io/badge/Email-usuario432hz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
-
-</div>
