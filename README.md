@@ -1,28 +1,24 @@
 ## 🎯 **Sobre Mí**
 
-Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante de programación y siempre buscando expandir mis conocimientos. Mis intereses incluyen **ciberseguridad**, **hacking ético**, **Linux**, **redes**, **automatizaciones**, **devops**, y desarrollo  de software **full stack**
-
+Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. Mis intereses incluyen *Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
 ---
 
-## 📚 **Mis Pasiones, Áreas de Aprendizaje y Exploraciones**
+## 📚 **Áreas de Aprendizaje y Exploraciones**
 
 - 🌐 **Desarrollo web** con frameworks modernos
-- 🐍 **Desarrollo de herramientas**
-- 🤖 **MCP Servers** y protocolos de comunicación con IA
-- 🔄 **Automatización con n8n** y workflows
-- 🔍 **Automatización con Python**
-- 🛡️ **Nuevas técnicas de hardening**
-- 🔐 **Análisis de malware** y reverse engineering
-- 🌐 **Seguridad en redes** y protocolos
-- 🎨 **Diseño de interfaces** y experiencia de usuario
-- ☁️ **Gestión de VPS** y servidores cloud
-- 🔌 **Integración de APIs** y servicios web
-- ☁️ **Plataformas cloud** (AWS, Azure, Google Cloud)
-- 🌊 **DigitalOcean** y gestión de Droplets
-- 🔒 **Servidores VPN** y configuración de v2ray
+- 🤖 **MCP Servers - MVP**
+- 🔄 **Automatización con n8n**
+- 🔐 **Análisis de malware**
+- 🌐 **Seguridad en redes**
+- 🎨 **Diseño de interfaces UI/UX**
+- ☁️ **Gestión de VPS**
+- 🔌 **Integraciónes de API Rest**
+- ☁️ **Plataformas cloud**
+- 🌊 **DigitalOcean**
+- 🔒 **Servidores VPN**
 
 ### 💻 **Programación**
-- **Frameworks web** (React, Vue.js, Next.js, Bootstrap)
+- **Frameworks** (Next.js, Vue.js, Astro, Expo)
 - **Python** (automatización, ciberseguridad)
 - **Bash** (scripting y administración)
 - **PHP** (desarrollo web)
@@ -31,53 +27,30 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - **TypeScript** (desarrollo web moderno)
 - **C#** (Aplicaciones de escritorio)
   
-### 🖥️ **Sistemas Operativos**
-- 🐧 **Linux** (**Debian**, **Ubuntu** y **Kali Linux**)
-- 🪟 Seguridad en **Windows**
-- 🔧 Administración de sistemas
 
 ### 🔒 **Ciberseguridad**
 - **Seguridad Informática**
 - **Hacking Ético**
-- **Pentesting** y auditorías de seguridad
+- **Pentesting**
 - **Análisis de vulnerabilidades**
 
-### 🌐 **Redes y Servidores**
-- Conceptos de redes y protocolos
-- Configuración de **VPN** y servidores VPN
-- **RDP** y administración remota
-- Administración de **servidores**
-- **VPS** (Virtual Private Servers)
-- Configuración y gestión de **servidores cloud**
-- **Droplets** y servidores virtuales
-
 ### 🛠️ **Herramientas y Entornos**
-- **Docker** para contenedores
-- **Git** para control de versiones
-- **VS Code** para desarrollo
-- **Kali Linux** para pentesting
-- **n8n** para automatización de workflows
-- **APIs** y integración de servicios
-- **VPS** para despliegue y hosting
-- **Cloud Platforms** (AWS, Azure, Google Cloud)
-- **DigitalOcean** y gestión de Droplets
-- **v2ray** para proxy y tunneling
-- **Vercel** para despliegue de aplicaciones web
-
-### ✨ **Inteligencia Artificial**
-- Aplicación de **IA** para generar ideas en programación
-- Automatización con IA
-- Herramientas de IA para desarrollo
-- **Claude Code**, **Gemini CLI**, **Rovodev** y asistentes de programación
-
-### ⚡ **Hardware**
-- Aspectos básicos de **Electrónica**
-- Hardware unlocking básico.
-- Optimización de hardware
+- **Antigravity**
+- **Opencode**
+- **Claude Code**
+- **Cursor**
+- **Vercel**
+- **Docker**
+- **Git**
+- **VS Code**
+- **Kali Linux**
+- **n8n**
+- **VPS**
+- **Cloud Platforms**
+- **DigitalOcean**
 
 ### 💡 **Filosofía**
 - Aprender crear y compartir
-- Mantener la curiosidad por lo **sobrenatural**
 - Contribuir a la comunidad tecnológica
 
 ---
@@ -85,7 +58,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ## ✨ **Mis Proyectos Destacados**
 
 ### 🚀 **[DevSuite](https://github.com/ANONIMO432HZ/DevSuite)**
-> Suite de herramientas para desarrolladores - Calculadoras y conversores esenciales
+> Suite de +17 herramientas para desarrolladores y informaticos - Codificacion, JWT, Criptografia
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
@@ -96,7 +69,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - 🔐 Codificador/decodificador Base64
 - ⚡ Interfaz rápida e intuitiva
 - 🎨 Diseño moderno y estéticamente agradable
-- 🌐 Desplegado en Vercel: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
+- 🌐 Desplegado en Vercel: [dev-suite.vercel.app](https://dev-suite.vercel.app/) | [devsuite.systes.net](https://devsuite.sytes.net/)
 
 ---
 
@@ -108,7 +81,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/WinTools?style=for-the-badge&color=yellow)
 
 **Características:**
-- 🎮 6 menús principales con 35+ herramientas
+- 🎮 6 menús principales con +35 herramientas
 - 🔐 Ejecutables firmados digitalmente
 - 📖 Documentación completa en español
 - 🛡️ Solución para problemas de antivirus
@@ -117,7 +90,7 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ---
 
 ### 🔋 **[BatteryZenith](https://github.com/ANONIMO432HZ/BatteryZenith)**
-> Monitorización de batería y recursos del sistema para Windows
+> Monitorización de batería y recursos del sistema para Laptops Lenovo Legion
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
@@ -131,9 +104,8 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 
 ---
 
-## 🛠️ **Tecnologías y Herramientas**
+## 🛠️ **Stack Tecnologico**
 
-### 💻 **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -142,14 +114,10 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🖥️ **Sistemas Operativos**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🛠️ **Herramientas de Desarrollo**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -165,21 +133,10 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-Server-green?style=for-the-badge&logo=shield)
-
-### 🔒 **Ciberseguridad**
 ![Security](https://img.shields.io/badge/Security-Tools-red?style=for-the-badge&logo=shield)
 ![Pentesting](https://img.shields.io/badge/Pentesting-Kali-orange?style=for-the-badge&logo=terminal)
 ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=for-the-badge&logo=network)
 
----
-
-## 📈 **Estadísticas de GitHub**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANONIMO432HZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONIMO432HZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANONIMO432HZ&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
 ---
 
@@ -191,10 +148,6 @@ Soy un entusiasta de la tecnología, actualmente en mis inicios como estudiante 
 - 🐛 **Reporta bugs** o sugiere mejoras
 - 💬 **Contribuye** con código o documentación
 
-### 📧 **Contacto**
-- **Email**: usuario432hz@gmail.com
-- **GitHub**: [@ANONIMO432HZ](https://github.com/ANONIMO432HZ)
-- **Proyectos**: [Repositorios](https://github.com/ANONIMO432HZ?tab=repositories)
 
 ---
 
