@@ -86,7 +86,7 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - 🖥️ Interfaz moderna y fácil de usar
 
 ---
-
+![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
 ## 🛠️ **Stack Tecnologico**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -119,6 +119,15 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 ![Security](https://img.shields.io/badge/Security-Tools-red?style=for-the-badge&logo=shield)
 ![Pentesting](https://img.shields.io/badge/Pentesting-Kali-orange?style=for-the-badge&logo=terminal)
 ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=for-the-badge&logo=network)
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20.js-0078d7.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ---
