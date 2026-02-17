@@ -86,7 +86,6 @@ Mis intereses son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=api)
 ![VPS](https://img.shields.io/badge/VPS-Cloud-blue?style=for-the-badge&logo=server)
