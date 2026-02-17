@@ -1,5 +1,5 @@
 ## 👤 **WHOAMI?**
-<div align="center"> ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106) </div>
+![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
 Soy un entusiasta del ciberespacio, estudiante de programación. 
 Mis intereses son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **VibeCoding**.
@@ -67,7 +67,7 @@ Mis intereses son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, 
 ---
 
 ## 🛠️ **Stack Tecnologico**
-<div align="center">![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)</div>
+![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
