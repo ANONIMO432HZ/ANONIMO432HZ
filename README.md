@@ -1,5 +1,6 @@
-![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
-## 🎯 **Sobre Mí**
+![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
+
+## 👤 **WHOAMI**
 
 Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. Mis intereses incluyen **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
 ---
@@ -86,8 +87,9 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - 🖥️ Interfaz moderna y fácil de usar
 
 ---
-![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
+
 ## 🛠️ **Stack Tecnologico**
+![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -129,6 +131,7 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
 
 ---
 
