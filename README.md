@@ -36,8 +36,7 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 - **Cloud Platforms**
 
 ### 💡 **Filosofía**
-- Aprender crear y compartir
-- Contribuir a la comunidad tecnológica
+- Aprender, crear y compartir
 
 ---
 
@@ -140,8 +139,6 @@ Soy un entusiasta de la tecnología, estudiante de programación y siempre busco
 
 </div>
 
-
-## 🎨 **Filosofía de Desarrollo**
 
 > *"El conocimiento es poder, pero compartirlo es libertad. En el mundo de la tecnología, cada línea de código es una oportunidad para aprender y crecer."*
 
