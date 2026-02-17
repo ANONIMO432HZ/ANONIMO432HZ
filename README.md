@@ -1,5 +1,5 @@
 ## 👤 **WHOAMI?**
-![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
+<div align="center">![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)</div>
 
 Soy un entusiasta del ciberespacio, estudiante de programación. 
 Mis intereses son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **VibeCoding**.
@@ -67,7 +67,7 @@ Mis intereses son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, 
 ---
 
 ## 🛠️ **Stack Tecnologico**
-![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
+<div align="center">![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -110,7 +110,7 @@ Mis intereses son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
-https://private-user-images.githubusercontent.com/100421286/272568303-ea5c1a14-d4e4-4da6-8c94-3f98d54dc0c8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEyOTkxOTEsIm5iZiI6MTc3MTI5ODg5MSwicGF0aCI6Ii8xMDA0MjEyODYvMjcyNTY4MzAzLWVhNWMxYTE0LWQ0ZTQtNGRhNi04Yzk0LTNmOThkNTRkYzBjOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIxN1QwMzI4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDY3NDY1NmZhYThlMGVlYjMyODlhNDcwYzRmMzE5MTU1NDVjZWI0ZDI3NzY1MjEwZjNkNGZhMGIzMzg1ODcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fj16HNHK0KsNe2Lx_2155xJmjwBP5vYScND9VfmGZhA
+
 ---
 
 ## 🤝 **Colaboración y Contacto**
