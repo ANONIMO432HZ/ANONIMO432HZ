@@ -1,31 +1,19 @@
 ## 🎯 **Sobre Mí**
 
-Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. Mis intereses incluyen *Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
+Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. Mis intereses incluyen **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
 ---
 
 ## 📚 **Áreas de Aprendizaje y Exploraciones**
 
-- 🌐 **Desarrollo web** con frameworks modernos
+- 🌐 **Desarrollo Web**
 - 🤖 **MCP Servers - MVP**
 - 🔄 **Automatización con n8n**
 - 🔐 **Análisis de malware**
 - 🌐 **Seguridad en redes**
 - 🎨 **Diseño de interfaces UI/UX**
-- ☁️ **Gestión de VPS**
 - 🔌 **Integraciónes de API Rest**
 - ☁️ **Plataformas cloud**
-- 🌊 **DigitalOcean**
 - 🔒 **Servidores VPN**
-
-### 💻 **Programación**
-- **Frameworks** (Next.js, Vue.js, Astro, Expo)
-- **Python** (automatización, ciberseguridad)
-- **Bash** (scripting y administración)
-- **PHP** (desarrollo web)
-- **Batch** (Windows automation)
-- **HTML/CSS/JavaScript** (creación de páginas web)
-- **TypeScript** (desarrollo web moderno)
-- **C#** (Aplicaciones de escritorio)
   
 
 ### 🔒 **Ciberseguridad**
