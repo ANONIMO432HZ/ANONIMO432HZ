@@ -1,3 +1,4 @@
+![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 ## 🎯 **Sobre Mí**
 
 Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. Mis intereses incluyen **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
