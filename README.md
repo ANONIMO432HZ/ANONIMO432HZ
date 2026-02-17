@@ -1,8 +1,8 @@
+## 👤 **WHOAMI**
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
-## 👤 **WHOAMI**
-
-Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. Mis intereses incluyen **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
+Soy un entusiasta de la tecnología, estudiante de programación y siempre busco expandir mis conocimientos. 
+Mis intereses incluyen **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y VibeCoding.
 ---
 
 ## 📚 **Áreas de Aprendizaje y Exploraciones**
