@@ -127,7 +127,7 @@ Soy un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **B
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
-[![Email](https://img.shields.io/badge/Email-usuario432hz@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:usuario432hz@gmail.com)
 
 </div>
 
