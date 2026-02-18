@@ -6,13 +6,13 @@ Soy un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **B
 
 ## 📚 **Áreas de Aprendizaje y Exploraciones**
 
-- 🌐 **Desarrollo Web**, 🤖 **MCP Servers  MVP**, 🔄 **Automatización con n8n**, 🔐 **Análisis de malware**, 🌐 **Seguridad en redes**  🎨 **Diseño de interfaces UI/UX**, 🔌 **Integraciónes de API Rest**, ☁️ **Plataformas cloud**, 🔒 **Servidores VPN**
+- 🌐 **Desarrollo Web**, 🤖 **MCP Servers  MVP**, 🔄 **Automatización con n8n**, 🔐 **Análisis de malware**, 🌐 **Seguridad en redes** - 🎨 **Diseño de interfaces UI/UX**, 🔌 **Integraciónes de API Rest**, ☁️ **Plataformas cloud**, 🔒 **Servidores VPN**
   
 ### 🔒 **Ciberseguridad**
 - **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**
 
 ### 🛠️ **Herramientas y Entornos**
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **Git**, **VS Code**, **Kali Linux**, **n8n**  **VPS**, **Cloud Platforms**
+- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **Git**, **VS Code**, **Kali Linux**, **n8n**, - **VPS**, **Cloud Platforms**
 
 ### 💡 **Filosofía**
 - Aprender, crear y compartir
