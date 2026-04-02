@@ -1,7 +1,7 @@
 ## 👤 **WHOAMI?**
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
-Soy un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **VibeCoding**.
+Soy un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **Desarollo asistido por IA**.
 ---
 
 ## 📚 **Áreas de Aprendizaje y Exploraciones**
