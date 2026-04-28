@@ -1,7 +1,7 @@
 ## 👤 **WHOAMI?**
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
-Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **Desarrollo asistido por IA**.
+Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **Desarrollo asistido por IA [SDD]**.
 ---
 
 ## 📚 **Áreas de Aprendizaje y Exploraciones**
@@ -111,6 +111,16 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
+
+---
+
+## 📈 **Estadísticas**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANONIMO432HZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONIMO432HZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANONIMO432HZ&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
 ---
 
