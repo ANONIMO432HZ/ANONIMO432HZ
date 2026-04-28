@@ -1,7 +1,7 @@
 ## 👤 **WHOAMI?**
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
-Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **Desarrollo asistido por IA [SDD]**.
+Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **Desarrollo asistido por IA [OPENSPEC]**.
 ---
 
 ## 📚 **Áreas de Aprendizaje y Exploraciones**
@@ -50,20 +50,6 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 - 🔐 Ejecutables firmados digitalmente
 - 🛡️ Solución para problemas de antivirus
 - 🎯 Compatible con Windows 10/11
-
----
-
-### 🔋 **[BatteryZenith](https://github.com/ANONIMO432HZ/BatteryZenith)**
-> Monitorización de batería y recursos del sistema para Laptops Lenovo Legion
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/BatteryZenith?style=for-the-badge&color=yellow)
-
-**Características:**
-- 📊 Monitorización en tiempo real
-- 🔋 Modo de conservación de batería
-- 🖥️ Interfaz moderna y fácil de usar
 
 ---
 
