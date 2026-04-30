@@ -1,5 +1,8 @@
-## 👤 **WHOAMI?**
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1kczJqYnl4dnczdmc0NXQyY2s0ZnU3MWlzbzhva2VveGl0ZndyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jCC0F97CdwsySFOe07/giphy.gif" width="100"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B;Bienvenid%40+a+mi+perfil.;%C2%A1Encantado+de+tenerte+aqu%C3%AD!)](https://git.io/typing-svg)
+
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
+
+## 👤 **WHOAMI?**
 
 ⌜Un entusiasta del ciberespacio.⌝
 ---
