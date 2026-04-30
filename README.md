@@ -13,18 +13,17 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 - **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**
 
 ### 🛠️ **Herramientas y Entornos**
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **Git**, **VS Code**, **Kali Linux**, **n8n**,
-- **VPS**, **Cloud Platforms**
+- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**, **N8n**,
 
 ### 💡 **Filosofía**
 - Aprender, crear y compartir
 
 ---
 
-## ✨ **Mis Proyectos Destacados**
+## ✨ **Proyectos Destacados**
 
 ### 🚀 **[DevSuite](https://github.com/ANONIMO432HZ/DevSuite)**
-> Suite de +17 herramientas para desarrolladores y informaticos - Codificacion, JWT, Criptografia
+> Suite de +17 herramientas para desarrolladores y informaticos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
@@ -32,21 +31,21 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 
 **Características:**
 - 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
-- 🔐 Codificador/decodificador Base64
+- 🔐 Codificacion, JWT, Criptografia
 - ⚡ Interfaz rápida e intuitiva
-- 🌐 Desplegado en Vercel: [dev-suite.vercel.app](https://dev-suite.vercel.app/) | [devsuite.systes.net](https://devsuite.sytes.net/)
+- 🌐 WebApp: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
 
 ---
 
 ### ️ **[WinTools](https://github.com/ANONIMO432HZ/WinTools)**
-> Multi-herramientas para Windows - Herramientas de administración y optimización
+> Multi-herramientas para Windows
 
 ![WinTools](https://img.shields.io/badge/WinTools-v1.0.0.1-brightgreen?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/WinTools?style=for-the-badge&color=yellow)
 
 **Características:**
-- 🎮 6 menús principales con +35 herramientas
+- 🎮 6 menús principales con +35 herramientas utiles
 - 🔐 Ejecutables firmados digitalmente
 - 🛡️ Solución para problemas de antivirus
 - 🎯 Compatible con Windows 10/11
@@ -99,25 +98,24 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 ![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
 
 ---
-
-## 📈 **Estadísticas**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANONIMO432HZ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
-
+<div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONIMO432HZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANONIMO432HZ&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
+</div>
+
 ![snake gif](https://github.com/ANONIMO432HZ/ANONIMO432HZ/blob/output/github-snake-dark.svg)
+
 ---
 
 ## 🤝 **Colaboración y Contacto**
 
-### 💡 **¿Quieres apoyar mi trabajo?**
 - ⭐ **Dale una estrella** a mis repositorios
 - 🔄 **Fork** los proyectos que te interesen
-- 🐛 **Reporta bugs** o sugiere mejoras
-- 💬 **Contribuye** con código o documentación
+- 🐛 **Reporta bugs**
+- 💬 **Contribuye**
 - 👤 **Sigueme**
 
 
