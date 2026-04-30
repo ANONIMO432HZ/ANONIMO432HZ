@@ -7,7 +7,7 @@
 ## 📚 **Áreas de Aprendizaje y Intereses**
 
 ### 🌐 **Desarrollo Web**
-- **HTML**, **CSS**, **JavaScript** **NextJS**, **React**, **Astro**, **TypeScript**, **Diseño de interfaces UI/UX**
+- **HTML**, **CSS**, **JavaScript**, **NextJS**, **React**, **Astro**, **PHP**, **TypeScript**, **Diseño de interfaces UI/UX**
   
 ### 🔒 **Ciberseguridad**
 - **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**, **Servidores VPN**
