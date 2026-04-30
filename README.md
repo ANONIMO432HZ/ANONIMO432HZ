@@ -1,22 +1,22 @@
 ## 👤 **WHOAMI?**
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
-Un entusiasta del ciberespacio.
+⌜Un entusiasta del ciberespacio.⌝
 ---
 
 ## 📚 **Áreas de Aprendizaje y Intereses**
 
 ### 🌐 **Desarrollo Web**
-- **HTML**, **CSS**, **JavaScript** **NextJS**, **React**, **Astro**, **TypeScript**, **Diseño de interfaces UI/UX**, 🔌 **Integraciónes de API Rest**
+- **HTML**, **CSS**, **JavaScript** **NextJS**, **React**, **Astro**, **TypeScript**, **Diseño de interfaces UI/UX**
   
 ### 🔒 **Ciberseguridad**
 - **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**, **Servidores VPN**
 
 ### 🛠️ **Herramientas y Entornos**
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**, **N8n**
+- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**
 
 ### 💡 **Filosofía**
-- Aprender, crear y compartir
+⌞Aprender, crear y compartir⌟
 
 ---
 
@@ -31,7 +31,7 @@ Un entusiasta del ciberespacio.
 **Características:**
 - 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
 - 🔐 Codificacion, JWT, Criptografia
-- ⚡ Interfaz rápida e intuitiva
+- ⚡ Interfaz rápida e privada
 - 🌐 WebApp: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
 
 ---
