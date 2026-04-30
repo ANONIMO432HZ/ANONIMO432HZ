@@ -108,6 +108,7 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANONIMO432HZ&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
 
+![snake gif](https://github.com/ANONIMO432HZ/ANONIMO432HZ/blob/output/github-snake-dark.svg)
 ---
 
 ## 🤝 **Colaboración y Contacto**
