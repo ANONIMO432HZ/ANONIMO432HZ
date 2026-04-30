@@ -1,19 +1,19 @@
 ## 👤 **WHOAMI?**
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
-Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back End**, **Ciberseguridad**, **DevOps**, y **Desarrollo asistido por IA [OPENSPEC]**.
+Un entusiasta del ciberespacio.
 ---
 
-## 📚 **Áreas de Aprendizaje y Exploraciones**
+## 📚 **Áreas de Aprendizaje y Intereses**
 
-- 🌐 **Desarrollo Web**, 🤖 **MCP Servers  MVP**, 🔄 **Automatización con n8n**, 🔐 **Análisis de malware**, 🌐 **Seguridad en redes** 
-- 🎨 **Diseño de interfaces UI/UX**, 🔌 **Integraciónes de API Rest**, ☁️ **Plataformas cloud**, 🔒 **Servidores VPN**
+### 🌐 **Desarrollo Web**
+- **HTML**, **CSS**, **JavaScript** **NextJS**, **React**, **Astro**, **TypeScript**, **Diseño de interfaces UI/UX**, 🔌 **Integraciónes de API Rest**
   
 ### 🔒 **Ciberseguridad**
-- **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**
+- **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**, **Servidores VPN**
 
 ### 🛠️ **Herramientas y Entornos**
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**, **N8n**,
+- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**, **N8n**
 
 ### 💡 **Filosofía**
 - Aprender, crear y compartir
@@ -26,8 +26,7 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 > Suite de +17 herramientas para desarrolladores y informaticos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/DevSuite?style=for-the-badge&color=yellow)
+![WinTools](https://img.shields.io/badge/WinTools-v4.0-brightgreen?style=for-the-badge&logo=windows)
 
 **Características:**
 - 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
@@ -48,7 +47,6 @@ Un entusiasta del ciberespacio. Mis temas de interes son: **Front End**, **Back 
 - 🎮 6 menús principales con +35 herramientas utiles
 - 🔐 Ejecutables firmados digitalmente
 - 🛡️ Solución para problemas de antivirus
-- 🎯 Compatible con Windows 10/11
 
 ---
 
