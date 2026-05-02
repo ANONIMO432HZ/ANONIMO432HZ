@@ -10,15 +10,19 @@
 ## 📚 **Áreas de Aprendizaje y Intereses**
 
 ### 🌐 **Desarrollo Web**
+
 - **HTML**, **CSS**, **JavaScript**, **NextJS**, **React**, **Astro**, **PHP**, **TypeScript**, **Diseño de interfaces UI/UX**
   
 ### 🔒 **Ciberseguridad**
+
 - **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**, **Servidores VPN**
 
 ### 🛠️ **Herramientas y Entornos**
+
 - **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**
 
 ### 💡 **Filosofía**
+
 ⌞Aprender, crear y compartir⌟
 
 ---
@@ -26,12 +30,14 @@
 ## ✨ **Proyectos Destacados**
 
 ### 🚀 **[DevSuite](https://dev-suite.vercel.app/)**
+>
 > Suite de +17 herramientas para desarrolladores y informaticos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WinTools](https://img.shields.io/badge/WinTools-v4.0-brightgreen?style=for-the-badge&logo=windows)
 
 **Características:**
+
 - 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
 - 🔐 Codificacion, JWT, Criptografia
 - ⚡ Interfaz rápida e privada
@@ -40,6 +46,7 @@
 ---
 
 ### ️ **[WinTools](https://github.com/ANONIMO432HZ/WinTools)**
+>
 > Multi-herramientas para Windows
 
 ![WinTools](https://img.shields.io/badge/WinTools-v1.0.0.1-brightgreen?style=for-the-badge&logo=windows)
@@ -47,13 +54,32 @@
 ![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/WinTools?style=for-the-badge&color=yellow)
 
 **Características:**
+
 - 🎮 6 menús principales con +35 herramientas utiles
 - 🔐 Ejecutables firmados digitalmente
 - 🛡️ Solución para problemas de antivirus
 
 ---
 
+### 🛡️ **[ChromiumSpecter](https://github.com/ANONIMO432HZ/ChromiumSpecter)**
+>
+> Auditor de Credenciales de Grado Táctico para Navegadores Chromium
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Security-Tactical-red?style=for-the-badge&logo=shield)
+![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/ChromiumSpecter?style=for-the-badge&color=yellow)
+
+**Características:**
+
+- 🕵️ **Motor de Sigilo**: Evasión de Sandboxes y retrasos configurables.
+- 💥 **Anti-Forensics**: Autodestrucción táctica y limpieza total de rastro.
+- 🚀 **Multi-Canal**: Exfiltración automática vía Telegram y Discord.
+- 🛠️ **Builder Visual**: Generador de stubs con spoofing de metadatos profesional.
+
+---
+
 ## 🛠️ **Stack Tecnologico**
+
 ![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -119,7 +145,6 @@
 - 💬 **Contribuye**
 - 👤 **Sigueme**
 
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANONIMO432HZ-black?style=for-the-badge&logo=github)](https://github.com/ANONIMO432HZ)
@@ -127,6 +152,4 @@
 
 </div>
 
-
 > *"El conocimiento es poder, pero compartirlo es libertad. En el mundo de la tecnología, cada línea de código es una oportunidad para aprender y crecer."*
-
