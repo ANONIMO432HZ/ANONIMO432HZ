@@ -126,7 +126,7 @@
 
 ---
 <div align="center">
-  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONIMO432HZ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANONIMO432HZ&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
