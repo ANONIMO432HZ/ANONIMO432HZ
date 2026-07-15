@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1kczJqYnl4dnczdmc0NXQyY2s0ZnU3MWlzbzhva2VveGl0ZndyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jCC0F97CdwsySFOe07/giphy.gif" width="100"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B;Bienvenid%40+a+mi+perfil.;%C2%A1Encantado+de+tenerte+aqu%C3%AD!)](https://git.io/typing-svg)
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGowd2dnejRhdTB5cnk3MmJwcDZka3VnYWE1cm4xaHFnZ2V0a2hqZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5xtDart8lfgtmWv3XTG/giphy.gif" width="100"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions.;Transmutation+of+qubits+into+bits.;Welcome+to+my+space.)](https://git.io/typing-svg)
 
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
@@ -11,25 +11,25 @@
 
 ### 🌐 **Desarrollo Web**
 
-- **HTML**, **CSS**, **JavaScript**, **NextJS**, **React**, **Astro**, **PHP**, **TypeScript**, **Diseño de interfaces UI/UX**
+- **HTML**, **CSS**, **JavaScript**, **NextJS**, **React**, **Astro**, **PHP**, **TypeScript**
   
 ### 🔒 **Ciberseguridad**
 
-- **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**, **Servidores VPN**
+- **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**
 
-### 🛠️ **Herramientas y Entornos**
+### 🧩 **Herramientas y Entornos**
 
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **Docker**, **GitHub**, **VS Code**, **Kali Linux**
+- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **GitHub**, **VS Code**, **Kali Linux**
 
-### 💡 **Filosofía**
+### ♦️ **Filosofía**
 
 ⌞Aprender, crear y compartir⌟
 
 ---
 
-## ✨ **Proyectos Destacados**
+## 🗂️ **Proyectos Destacados**
 
-### 🚀 **[DevSuite](https://dev-suite.vercel.app/)**
+### 🛠️ **[DevSuite](https://dev-suite.vercel.app/)**
 >
 > Suite de +17 herramientas para desarrolladores y informaticos
 
@@ -38,7 +38,7 @@
 
 **Características:**
 
-- 🔢 Conversores de base numérica (binario, hexadecimal, decimal)
+- 🔢 Conversores, decodificadores (binario, hexadecimal, decimal)
 - 🔐 Codificacion, JWT, Criptografia
 - ⚡ Interfaz rápida e privada
 - 🌐 WebApp: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
@@ -47,7 +47,7 @@
 
 ### 🛡️ **[ChromiumSpecter](https://github.com/ANONIMO432HZ/ChromiumSpecter)**
 >
-> Auditor de Credenciales de Grado Táctico para Navegadores Chromium
+> Auditor de seguridad de Encriptacion de credenciales para Navegadores Chromium
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Security-Tactical-red?style=for-the-badge&logo=shield)
@@ -94,15 +94,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=api)
-![VPS](https://img.shields.io/badge/VPS-Cloud-blue?style=for-the-badge&logo=server)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -114,11 +110,8 @@
 ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=for-the-badge&logo=network)
 ![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-Server-green?style=for-the-badge&logo=shield)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -137,13 +130,7 @@
 
 ---
 
-## 🤝 **Colaboración y Contacto**
-
-- ⭐ **Dale una estrella** a mis repositorios
-- 🔄 **Fork** los proyectos que te interesen
-- 🐛 **Reporta bugs**
-- 💬 **Contribuye**
-- 👤 **Sigueme**
+## 💬 **Contacto**
 
 <div align="center">
 
