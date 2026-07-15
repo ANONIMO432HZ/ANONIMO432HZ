@@ -7,7 +7,7 @@
 ⌜Un entusiasta del ciberespacio.⌝
 ---
 
-## 📚 **Áreas de Aprendizaje y Intereses**
+## 📚 **Aprendizajes y Intereses**
 
 ### 🌐 **Desarrollo Web**
 
@@ -34,14 +34,14 @@
 > Suite de +17 herramientas para desarrolladores y informaticos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![WinTools](https://img.shields.io/badge/WinTools-v4.0-brightgreen?style=for-the-badge&logo=windows)
+![WinTools](https://img.shields.io/badge/WinTools-v4.9-brightgreen?style=for-the-badge&logo=windows)
 
 **Características:**
 
 - 🔢 Conversores, decodificadores (binario, hexadecimal, decimal)
-- 🔐 Codificacion, JWT, Criptografia
+- 🔐 Codificacion, JWT, Criptografia, Client-Side Only
 - ⚡ Interfaz rápida e privada
-- 🌐 WebApp: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
+- 🌐 Live: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
 
 ---
 
@@ -74,7 +74,6 @@
 
 - 🎮 6 menús principales con +35 herramientas utiles
 - 🔐 Ejecutables firmados digitalmente
-- 🛡️ Solución para problemas de antivirus
 
 ---
 
