@@ -4,7 +4,7 @@
 
 ## 👤 **WHOAMI?**
 
-⌜Un entusiasta del ciberespacio.⌝
+⌜Un entusiasta del ciberespacio⌝
 ---
 
 ## 📚 **Aprendizajes y Intereses**
@@ -15,11 +15,11 @@
   
 ### 🔒 **Ciberseguridad**
 
-- **Seguridad Informática**, **Hacking Ético**, **Pentesting**, **Análisis de vulnerabilidades**
+- **Seguridad Informática**, **Hacking Ético**, **Pentesting**
 
 ### 🧩 **Herramientas y Entornos**
 
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **GitHub**, **VS Code**, **Kali Linux**
+- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **GitHub**, **VS Code**
 
 ### ♦️ **Filosofía**
 
@@ -105,7 +105,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20.js-0078d7.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Tools-red?style=for-the-badge&logo=shield)
-![Pentesting](https://img.shields.io/badge/Pentesting-Kali-orange?style=for-the-badge&logo=terminal)
 ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=for-the-badge&logo=network)
 ![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
