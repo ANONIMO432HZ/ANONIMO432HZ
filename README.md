@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGowd2dnejRhdTB5cnk3MmJwcDZka3VnYWE1cm4xaHFnZ2V0a2hqZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5xtDart8lfgtmWv3XTG/giphy.gif" width="100"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions.;Transmutation+of+qubits+into+bits.;Welcome+to+my+space.)](https://git.io/typing-svg)
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGowd2dnejRhdTB5cnk3MmJwcDZka3VnYWE1cm4xaHFnZ2V0a2hqZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5xtDart8lfgtmWv3XTG/giphy.gif" width="100"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions.;Transmutation+of+bits+into+qubits.;Welcome+to+my+space.)](https://git.io/typing-svg)
 
 ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
@@ -19,11 +19,11 @@
 
 ### 🧩 **Herramientas y Entornos**
 
-- **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **GitHub**, **VS Code**
+- **VS Code**, **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **GitHub**
 
 ### ♦️ **Filosofía**
 
-⌞Aprender, crear y compartir⌟
+⌞Aprender, Crear y Compartir⌟
 
 ---
 
@@ -113,8 +113,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
-
 ---
 <div align="center">
 
@@ -137,4 +135,4 @@
 
 </div>
 
-> *"El conocimiento es poder, pero compartirlo es libertad. En el mundo de la tecnología, cada línea de código es una oportunidad para aprender y crecer."*
+> *"El conocimiento es poder, pero compartirlo es libertad. En el mundo tecnológico, cada línea de código es una oportunidad para aprender y crecer."*
