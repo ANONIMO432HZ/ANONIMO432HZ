@@ -1,14 +1,14 @@
 <div align="center">
 
-  <a href="README.es.md">
-    <img src="https://img.shields.io/badge/Versi%C3%B3n-Espa%C3%B1ol-007ACC?style=for-the-badge&logo=google-translate&logoColor=white" alt="Versión en Español" />
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Switch_to-English-E05D44?style=for-the-badge&logo=google-translate&logoColor=white" alt="Switch to English" />
   </a>
 
   <br/><br/>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGowd2dnejRhdTB5cnk3MmJwcDZka3VnYWE1cm4xaHFnZ2V0a2hqZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5xtDart8lfgtmWv3XTG/giphy.gif" width="90" alt="Wave animation"/>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions.;Transmutation+of+bits+into+qubits.;Welcome+to+my+space.)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Disenando+soluciones+digitales.;Transmutacion+de+bits+a+qubits.;Bienvenido+a+mi+espacio.)](https://git.io/typing-svg)
 
   ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
@@ -18,90 +18,90 @@
 
 ## 👤 **WHOAMI?**
 
-⌜An anonymous cyberspace enthusiast⌝
+⌜Un entusiasta anónimo del ciberespacio⌝
 
-> *“Technology finds its true meaning when it alleviates friction, safeguards individuals, and expands what we can build.”*
+> *«La tecnología cobra sentido cuando reduce la fricción, protege a las personas y expande lo que somos capaces de construir.»*
 
-Developer dedicated to creating practical utilities, auditing information security, and customizing my own solutions as a builder and modder. Driven by continuous learning, inspecting how systems work under the hood, and sharing knowledge with the community.
-
----
-
-## 💡 **Pillars & Focus**
-
-- 🛠️ **Development & Toolsmithing**: Building agile, functional tools to streamline workflows and solve problems.
-- 🔒 **Information Security & Pentesting**: Practical security audits, penetration testing, and vulnerability analysis with an ethical mindset.
-- ⚙️ **Modding & Tuning**: Experimenting, modifying, tweaking, and updating personal and third-party projects and environments to adapt to my needs and those of others.
-- 🌐 **Open Culture**: Learning in public, documenting processes, and freely sharing technical knowledge.
+Desarrollador enfocado en construir utilidades prácticas, auditar la seguridad de la información y personalizar mis propias soluciones como modder y creador. Me motiva el aprendizaje continuo, entender los sistemas por dentro y compartir el camino con la comunidad.
 
 ---
 
-## 📚 **Learning & Interests**
+## 💡 **Pilares y Enfoque**
 
-### 🌐 **Web Development**
+- 🛠️ **Desarrollo y Toolsmithing**: Construcción de herramientas ágiles y funcionales para simplificar flujos y resolver problemas.
+- 🔒 **Seguridad de la Información y Pentesting**: Auditorías de seguridad, pruebas de penetración y análisis con mentalidad ética.
+- ⚙️ **Modding y Tuning**: Experimentación, modificación, ajustes y actualizaciones de proyectos y entornos propios y de terceros para adaptarse a mis necesidades y las de otros.
+- 🌐 **Cultura Abierta**: Aprender en público, documentar procesos y compartir conocimientos de forma libre.
+
+---
+
+## 📚 **Aprendizajes y Intereses**
+
+### 🌐 **Desarrollo Web**
 - **HTML**, **CSS**, **JavaScript**, **NextJS**, **React**, **Astro**, **PHP**, **TypeScript**
   
-### 🔒 **Cybersecurity**
-- **Information Security**, **Ethical Hacking**, **Pentesting**
+### 🔒 **Ciberseguridad**
+- **Seguridad Informática**, **Hacking Ético**, **Pentesting**
 
-### 🧩 **Tools & Environments**
+### 🧩 **Herramientas y Entornos**
 - **VS Code**, **Antigravity**, **Opencode**, **Claude Code**, **Cursor**, **Vercel**, **GitHub**
 
-### ♦️ **Philosophy**
-⌞Learn, Build, and Share⌟
+### ♦️ **Filosofía**
+⌞Aprender, Crear y Compartir⌟
 
 ---
 
-## 🗂️ **Featured Projects**
+## 🗂️ **Proyectos Destacados**
 
 ### 🛠️ **[DevSuite](https://dev-suite.vercel.app/)**
-> Suite of 17+ utilities for developers and IT professionals with client-side architecture
+> Suite de +17 herramientas para desarrolladores e informáticos con arquitectura client-side
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WinTools](https://img.shields.io/badge/WinTools-v4.9-brightgreen?style=for-the-badge&logo=windows)
 
-**Features:**
-- 🔢 Converters and decoders (binary, hex, decimal)
-- 🔐 Encodings, JWT, lightweight cryptography, Client-Side Only
-- ⚡ Fast, minimalist, and private interface
+**Características:**
+- 🔢 Conversores y decodificadores (binario, hexadecimal, decimal)
+- 🔐 Codificación, JWT, criptografía ligera, Client-Side Only
+- ⚡ Interfaz rápida, minimalista y privada
 - 🌐 Live: [dev-suite.vercel.app](https://dev-suite.vercel.app/)
 
 ---
 
 ### 🛡️ **[ChromiumSpecter](https://github.com/ANONIMO432HZ/ChromiumSpecter)**
-> Security audit tool for credential encryption mechanisms in Chromium browsers
+> Auditor de seguridad de encriptación de credenciales para navegadores Chromium
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Security-Tactical-red?style=for-the-badge&logo=shield)
 ![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/ChromiumSpecter?style=for-the-badge&color=yellow)
 
-**Features:**
-- 🕵️ **Stealth Engine**: Sandbox evasion and configurable execution delays.
-- 💥 **Anti-Forensics**: Tactical self-deletion and complete trace cleanup.
-- 🚀 **Multi-Channel**: Automated exfiltration via Telegram and Discord.
-- 🛠️ **Visual Builder**: Stub generator with professional metadata spoofing.
+**Características:**
+- 🕵️ **Motor de Sigilo**: Evasión de Sandboxes y retrasos configurables.
+- 💥 **Anti-Forensics**: Autodestrucción táctica y limpieza total de rastro.
+- 🚀 **Multi-Canal**: Exfiltración automática vía Telegram y Discord.
+- 🛠️ **Builder Visual**: Generador de stubs con spoofing de metadatos profesional.
 
 ---
 
 ### 🛠️ **[WinTools](https://github.com/ANONIMO432HZ/WinTools)**
-> Multi-tool utility suite for Windows
+> Multi-herramientas para Windows
 
 ![WinTools](https://img.shields.io/badge/WinTools-v1.0.0.1-brightgreen?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/ANONIMO432HZ/WinTools?style=for-the-badge&color=yellow)
 
-**Features:**
-- 🎮 6 main menus with 35+ useful utilities
-- 🔐 Digitally signed executables
+**Características:**
+- 🎮 6 menús principales con +35 herramientas útiles
+- 🔐 Ejecutables firmados digitalmente
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Stack Tecnológico**
 
 <div align="center">
 
 ![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 
-#### 💻 Languages
+#### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -118,7 +118,7 @@ Developer dedicated to creating practical utilities, auditing information securi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### ⚙️ Backend, Databases & Automation
+#### ⚙️ Backend, Datos & Automatización
 ![Node.js](https://img.shields.io/badge/Node%20.js-0078d7.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=api)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -126,12 +126,12 @@ Developer dedicated to creating practical utilities, auditing information securi
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 
-#### 🔒 Cybersecurity & Networking
+#### 🔒 Ciberseguridad & Redes
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Tools-red?style=for-the-badge&logo=shield)
 ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=for-the-badge&logo=network)
 
-#### ☁️ DevOps, Cloud & Systems
+#### ☁️ DevOps, Cloud & Sistemas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -158,7 +158,7 @@ Developer dedicated to creating practical utilities, auditing information securi
 
 ---
 
-## 💬 **Contact**
+## 💬 **Contacto**
 
 <div align="center">
 
@@ -167,4 +167,4 @@ Developer dedicated to creating practical utilities, auditing information securi
 
 </div>
 
-> *“Knowledge is power, but sharing it is freedom. In tech, every line of code is an opportunity to learn and grow.”*
+> *"El conocimiento es poder, pero compartirlo es libertad. En el mundo tecnológico, cada línea de código es una oportunidad para aprender y crecer."*
