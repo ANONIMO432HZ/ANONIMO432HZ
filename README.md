@@ -1,11 +1,5 @@
 <div align="center">
 
-  <a href="README.es.md">
-    <img src="https://img.shields.io/badge/Versi%C3%B3n-Espa%C3%B1ol-007ACC?style=for-the-badge&logo=google-translate&logoColor=white" alt="Versión en Español" />
-  </a>
-
-  <br/><br/>
-
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGowd2dnejRhdTB5cnk3MmJwcDZka3VnYWE1cm4xaHFnZ2V0a2hqZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5xtDart8lfgtmWv3XTG/giphy.gif" width="90" alt="Wave animation"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions.;Transmutation+of+bits+into+qubits.;Welcome+to+my+space.)](https://git.io/typing-svg)
