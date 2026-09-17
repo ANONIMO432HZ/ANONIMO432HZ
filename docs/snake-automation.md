@@ -6,7 +6,7 @@ This directory contains continuous integration and maintenance workflows for the
 
 ## 🐍 Snake Contribution Animation (`snake.yml`)
 
-The workflow defined in [workflows/snake.yml](workflows/snake.yml) generates an interactive snake game animation based on your GitHub contribution graph.
+The workflow defined in [.github/workflows/snake.yml](../.github/workflows/snake.yml) generates an interactive snake game animation based on your GitHub contribution graph.
 
 ### How It Works
 
