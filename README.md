@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGowd2dnejRhdTB5cnk3MmJwcDZka3VnYWE1cm4xaHFnZ2V0a2hqZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5xtDart8lfgtmWv3XTG/giphy.gif" width="90" alt="Wave animation"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions.;Transmutation+of+bits+into+qubits.;Welcome+to+my+space.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=450&lines=Designing+digital+solutions;Transmutation+of+bits+into+qubits;Welcome+to+my+space)](https://git.io/typing-svg)
 
   ![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
 
@@ -100,12 +100,10 @@ Developer dedicated to creating practical utilities, auditing information securi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### 🌐 Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -126,7 +124,6 @@ Developer dedicated to creating practical utilities, auditing information securi
 ![Network](https://img.shields.io/badge/Network-Analysis-blue?style=for-the-badge&logo=network)
 
 #### ☁️ DevOps, Cloud & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
